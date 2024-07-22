@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business card</string>
+    <string name="person_name">Dima Kazarin</string>
+    <string name="description">Beginner Android Developer</string>
+    <string name="phone_number">Phone number</string>
+    <string name="e_mail">E-mail</string>
+    <string name="telegram">Telegram</string>
+</resources>
